@@ -2,7 +2,7 @@
 
 ## Game Description
 
-The CRAWL! A Super Entertaining 2D Arcade Game is a simple grid‑based adventure where the player moves around the board, collects keys, opens chests, and avoids traps. Keys are required to progress, chests give bonus points, ogres and traps take points away, and goblins immediately end the game. The board is made of different cell types that control movement and interactions, and everything runs on a tick‑based loop that updates player actions and game events. Enjoy!
+The CRAWL! A Super Entertaining 2D Arcade Game is a simple grid‑based adventure where the player moves around the board, collects keys, opens chests, and avoids traps. Keys are required to progress, chests give bonus points, ogres and traps take points away, and goblins immediately end the game. The board is made of different cell types that control movement and interactions, and everything runs on a tick‑based loop that updates player actions and game events. Enjoy!!
 
 ---
 
